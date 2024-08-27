@@ -6,5 +6,11 @@
         "timestamp": "1724789024",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "Please fix this header",
+        "timestamp": "27082024200501",
+        "message_id": "guest27082024200501"
     }
 ]
