@@ -6,7 +6,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
 -->
 
 <template>
-  <header class="w-full z-30 bg-purple-900" id="header-section-container" style="min-height: 70px" >
+  <header class="w-full z-30 bg-purple-900" id="header-section-container" style="min-height: 150px"  >
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="flex items-center justify-between h-16 md:h-20">
         <!-- Site Branding -->
