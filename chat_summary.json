@@ -18,5 +18,11 @@
         "content": "I'll work on fixing the header for you.",
         "timestamp": "27082024200501",
         "message_id": "guest27082024200501"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you specify what exactly needs fixing in the header? Is it a design-related issue or functionality-related issue?\", \"option1\": \"Design-related (e.g., color, font, layout)\", \"option2\": \"Functionality-related (e.g., links not working, dropdown issues)\"}, {\"question 2\": \"Would you like the header to remain consistent across all pages or change dynamically based on the content of the page?\", \"option1\": \"Remain consistent across all pages\", \"option2\": \"Change dynamically based on content\"}], \"input_token_count\": 281, \"output_token_count\": 123, \"time_taken\": \"0:00:04.016954\"}",
+        "timestamp": "27082024200506",
+        "message_id": "guest27082024200501"
     }
 ]
