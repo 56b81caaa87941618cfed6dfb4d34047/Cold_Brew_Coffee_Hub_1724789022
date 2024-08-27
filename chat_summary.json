@@ -12,5 +12,11 @@
         "content": "Please fix this header",
         "timestamp": "27082024200501",
         "message_id": "guest27082024200501"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "I'll work on fixing the header for you.",
+        "timestamp": "27082024200501",
+        "message_id": "guest27082024200501"
     }
 ]
