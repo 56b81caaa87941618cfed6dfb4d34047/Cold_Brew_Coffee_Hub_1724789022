@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "I'll work on fixing the header for you.",
+        "message_id": "guest27082024200501",
+        "timestamp": "27082024200501",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Please fix this header",
         "message_id": "guest27082024200501",
