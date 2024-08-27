@@ -22,13 +22,13 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   id="footer-logo"
                   class="inline-flex"
                   href="index.html"
-                  aria-label="FOOTER_COMPONENT_1_FOOTER_TEXT_1"
+                  aria-label="© 2023 ColdBrew Bliss. All rights reserved."
                 >
                   <img src="./images/logo.svg" width="38" height="38" alt="Stellar" />
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-slate-400">
-                &copy; FOOTER_COMPONENT_1_FOOTER_TEXT_1
+                &copy; © 2023 ColdBrew Bliss. All rights reserved.
                 <span class="text-slate-500">-</span> All rights reserved.
               </div>
             </div>
@@ -95,7 +95,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             id="footer-block-2-title"
             class="text-sm font-medium mb-2 text-slate-50 hover:text-purple-400"
           >
-            FOOTER_COMPONENT_1_TITLE_TEXT
+            About Us
           </h6>
           <ul id="footer-block-2-list" class="text-sm space-y-2">
             <li>
@@ -104,7 +104,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                FOOTER_COMPONENT_1_BODY_TEXT_1
+                Our Story
               </a>
             </li>
             <li>
@@ -113,7 +113,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                FOOTER_COMPONENT_1_BODY_TEXT_2
+                Brewing Process
               </a>
             </li>
             <li>
@@ -122,7 +122,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                FOOTER_COMPONENT_1_BODY_TEXT_3
+                Sustainability
               </a>
             </li>
             <li>
@@ -131,7 +131,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                FOOTER_COMPONENT_1_BODY_TEXT_4
+                Careers
               </a>
             </li>
           </ul>
@@ -140,7 +140,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         <!-- 3rd block -->
         <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
           <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-slate-50">
-            FOOTER_COMPONENT_2_TITLE_TEXT
+            Products
           </h6>
           <ul id="footer-block-3-list" class="text-sm space-y-2">
             <li>
@@ -149,7 +149,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_2_BODY_TEXT_1
+                Signature Blends
               </a>
             </li>
             <li>
@@ -158,7 +158,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_2_BODY_TEXT_2
+                Limited Editions
               </a>
             </li>
             <li>
@@ -167,7 +167,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_2_BODY_TEXT_3
+                Brewing Equipment
               </a>
             </li>
             <li>
@@ -176,7 +176,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_2_BODY_TEXT_4
+                Gift Sets
               </a>
             </li>
           </ul>
@@ -185,7 +185,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         <!-- 4th block -->
         <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
           <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-slate-50">
-            FOOTER_COMPONENT_3_TITLE_TEXT
+            Support
           </h6>
           <ul id="footer-block-4-list" class="text-sm space-y-2">
             <li>
@@ -194,7 +194,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_3_BODY_TEXT_1
+                FAQ
               </a>
             </li>
             <li>
@@ -203,7 +203,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_3_BODY_TEXT_2
+                Shipping & Returns
               </a>
             </li>
             <li>
@@ -212,7 +212,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_3_BODY_TEXT_3
+                Contact Us
               </a>
             </li>
             <li>
@@ -221,7 +221,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_3_BODY_TEXT_4
+                Brewing Guide
               </a>
             </li>
           </ul>
