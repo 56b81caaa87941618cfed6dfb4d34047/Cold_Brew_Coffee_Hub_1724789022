@@ -39,7 +39,7 @@ export default {
     },
     methods: {
         // Show alert method
-        showAlert() 
+        showAlert() {
             alert('CLICKED');
         }
         // End of show alert method
