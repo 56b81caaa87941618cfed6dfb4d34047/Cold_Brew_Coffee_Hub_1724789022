@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, working on changing \"not home\" to \"home\".",
+        "message_id": "guest28082024165548",
+        "timestamp": "28082024165548",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change not home to home",
         "message_id": "guest28082024165548",
