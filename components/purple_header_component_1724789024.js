@@ -25,7 +25,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-purple-200"
                 href="Home.html"
               >
-                Home
+                Homer
               </a>
             </li>
             <li>
@@ -118,7 +118,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           >
             <ul id="mobile-nav-list" class="bg-purple-800 shadow-lg rounded-lg px-4 py-2">
               <li>
-                <a id="mobile-Home-link" class="flex font-medium text-sm py-2 text-white hover:text-purple-200" href="Home.html">Home</a>
+                <a id="mobile-Home-link" class="flex font-medium text-sm py-2 text-white hover:text-purple-200" href="Home.html">Homer</a>
               </li>
               <li>
                 <a id="mobile-Our Brews-link" class="flex font-medium text-sm py-2 text-white hover:text-purple-200" href="Our Brews.html">Our Brews</a>
