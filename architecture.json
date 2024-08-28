@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nAdd a button that when clicked alerts in the browser with the message 'CLICKED'"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nplease make the button green"
     }
 ]
