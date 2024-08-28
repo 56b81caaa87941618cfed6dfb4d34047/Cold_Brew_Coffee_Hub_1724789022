@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of green in mind for the button, or would you like us to choose a shade that complements the existing design?\", \"option1\": \"Please choose a complementary shade for me.\", \"option2\": \"I will provide a specific shade or hex code.\"}, {\"question 2\": \"Should the text color inside the button change to maintain readability and design aesthetics?\", \"option1\": \"Yes, adjust the text color as needed.\", \"option2\": \"No, keep the current text color.\"}], \"input_token_count\": 270, \"output_token_count\": 120, \"time_taken\": \"0:00:03.604858\"}",
+        "message_id": "guest28082024213038",
+        "timestamp": "28082024213043",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, working on making the button green.",
         "message_id": "guest28082024213038",
