@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: Please fix this header\nAI: I'll work on fixing the header for you.\nUser: Change not home to home\nAI: Okay, working on changing \"not home\" to \"home\".\nUser: Change home to homer\n\nThis is the user's current request of changes to be made:\nChange home to homer"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nAdd a button that when clicked alerts in the browser with the message 'CLICKED'"
     }
 ]
