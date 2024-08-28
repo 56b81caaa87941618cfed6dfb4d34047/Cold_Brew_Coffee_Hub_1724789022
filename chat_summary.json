@@ -42,5 +42,11 @@
         "content": "Okay, working on changing \"not home\" to \"home\".",
         "timestamp": "28082024165548",
         "message_id": "guest28082024165548"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the 'not home' text in the navigation menu to be changed to 'Home', making it the main landing page link?\", \"option1\": \"Yes, replace 'not home' with 'Home' and set it as the main landing page link.\", \"option2\": \"No, keep 'not home' but change its functionality.\"}, {\"question 2\": \"Should the 'Home' button feature a unique design or iconography to distinguish it as the primary navigation element?\", \"option1\": \"Yes, add a unique design or icon to highlight the 'Home' button.\", \"option2\": \"No, keep the design consistent with other navigation elements.\"}], \"input_token_count\": 301, \"output_token_count\": 150, \"time_taken\": \"0:00:05.056535\"}",
+        "timestamp": "28082024165554",
+        "message_id": "guest28082024165548"
     }
 ]
