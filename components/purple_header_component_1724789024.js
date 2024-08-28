@@ -25,7 +25,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-purple-200"
                 href="Home.html"
               >
-                Home
+                Not Home
               </a>
             </li>
             <li>
@@ -141,7 +141,6 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
 </template>
 
 <script>
-let aaa !++! = '
 export default {
   name: "PurpleHeaderComponent",
   data() {
@@ -151,4 +150,4 @@ export default {
     };
   },
 };
-</script
+</script>
