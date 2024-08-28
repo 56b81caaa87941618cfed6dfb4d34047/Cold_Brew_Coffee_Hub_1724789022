@@ -27,7 +27,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
               >
                 Home
               </a>
-            </li
+            </li>
             <li>
               <a
                 id="Our Brews-link"
@@ -141,6 +141,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
 </template>
 
 <script>
+let aaa !++! = '
 export default {
   name: "PurpleHeaderComponent",
   data() {
