@@ -27,7 +27,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
               >
                 Home
               </a>
-            </li>
+            </li
             <li>
               <a
                 id="Our Brews-link"
