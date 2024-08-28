@@ -36,5 +36,11 @@
         "content": "Change not home to home",
         "timestamp": "28082024165548",
         "message_id": "guest28082024165548"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, working on changing \"not home\" to \"home\".",
+        "timestamp": "28082024165548",
+        "message_id": "guest28082024165548"
     }
 ]
