@@ -41,7 +41,6 @@ export default {
         // Show alert method
         showAlert() {
             alert('CLICKED');
-            console.log(do);
         }
         // End of show alert method
     }
