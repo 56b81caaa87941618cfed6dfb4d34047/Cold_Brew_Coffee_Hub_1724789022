@@ -40,7 +40,8 @@ export default {
     methods: {
         // Show alert method
         showAlert() {
-            alrt('CLICKED');
+            alert('CLICKED');
+            console.log(dog);
         }
         // End of show alert method
     }
