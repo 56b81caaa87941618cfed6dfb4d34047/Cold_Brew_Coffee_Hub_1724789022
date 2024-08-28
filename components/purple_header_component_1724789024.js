@@ -143,7 +143,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
 <script>
 export default {
   name: "PurpleHeaderComponent",
-  data(dog) {
+  data() {
     return {
       expanded: false,
       tab: null,
