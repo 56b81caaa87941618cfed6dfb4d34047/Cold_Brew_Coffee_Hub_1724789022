@@ -4,5 +4,6 @@
     "project_description": "A website about coldbrew coffee",
     "creation_time": "2024-08-27 20:03:42.413016",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image features a surreal, futuristic landscape with a vibrant color scheme dominated by shades of pink, purple, and black, creating a dramatic and ethereal atmosphere. The scene includes a large, illuminated planet with rocky terrain and reflective water, giving it a dreamy, otherworldly style."
 }
