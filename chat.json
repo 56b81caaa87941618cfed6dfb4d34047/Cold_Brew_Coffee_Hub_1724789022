@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Change the background color to green",
+        "message_id": "guest29082024184911",
+        "timestamp": "29082024184911",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of beige are you envisioning for the background color?\", \"option1\": \"A light beige\", \"option2\": \"A darker beige\"}, {\"question 2\": \"Would you like the beige background to be a solid color or with any texture or pattern?\", \"option1\": \"Solid color\", \"option2\": \"With texture or pattern\"}], \"input_token_count\": 519, \"output_token_count\": 85, \"time_taken\": \"0:00:02.122308\"}",
         "message_id": "guest29082024184708",
