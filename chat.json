@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Fixed header that stays on top while scrolling\", \"checked\": true}, {\"feature\": \"Search bar for finding coffee types\", \"checked\": false}, {\"feature\": \"Filter options for coffee varieties\", \"checked\": false}, {\"feature\": \"Social media share buttons\", \"checked\": false}, {\"feature\": \"Newsletter signup popup\", \"checked\": false}], \"input_token_count\": 586, \"output_token_count\": 87, \"time_taken\": \"0:00:01.627445\"}",
+        "message_id": "guest29082024184911",
+        "timestamp": "29082024184915",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific shade of green would you prefer for the background?\", \"option1\": \"Bright green\", \"option2\": \"Dark green\"}, {\"question 2\": \"Should this green background be applied to all pages or just specific sections of the website?\", \"option1\": \"All pages\", \"option2\": \"Specific sections only\"}], \"input_token_count\": 632, \"output_token_count\": 82, \"time_taken\": \"0:00:01.088686\"}",
         "message_id": "guest29082024184911",
