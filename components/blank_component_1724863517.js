@@ -26,7 +26,21 @@ INSTRUCTION: </div>
             </div>
         </section>  
     </div>
-</template
+</template>
+
+<script>
+export default {
+    name: "BlankComponent",
+    data() {
+        return {
+            expanded: false,
+            tab: null,
+        };
+    },
+    methods: {
+        // Show alert method
+        showAlert() {
+            alert('CLICKED');
         }
         // End of show alert method
     }
