@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the green background to apply to the entire website or just specific sections?\", \"option1\": \"Entire website\", \"option2\": \"Specific sections only\"}, {\"question 2\": \"What shade of green do you prefer for the background?\", \"option1\": \"Light green\", \"option2\": \"Dark green\"}], \"input_token_count\": 575, \"output_token_count\": 81, \"time_taken\": \"0:00:06.646526\"}",
+        "message_id": "guest29082024184507",
+        "timestamp": "29082024184516",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Back to Top' button for easy navigation\", \"checked\": false}, {\"feature\": \"Implement a coffee recipe section with user submissions\", \"checked\": false}, {\"feature\": \"Add a subscription form for coffee lovers\", \"checked\": true}, {\"feature\": \"Integrate social media sharing buttons\", \"checked\": false}, {\"feature\": \"Create a dedicated 'About Us' page featuring the coffee journey\", \"checked\": true}], \"input_token_count\": 529, \"output_token_count\": 105, \"time_taken\": \"0:00:01.627547\"}",
         "message_id": "guest29082024184507",
