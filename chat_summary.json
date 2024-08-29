@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of red are you envisioning for the background?\", \"option1\": \"Bright red\", \"option2\": \"Dark red\"}, {\"question 2\": \"Should the red background apply to all pages of the website or just specific sections?\", \"option1\": \"All pages\", \"option2\": \"Specific sections\"}], \"input_token_count\": 270, \"output_token_count\": 78, \"time_taken\": \"0:00:01.442425\"}",
+        "message_id": "guest29082024184033",
+        "timestamp": "29082024184036",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'm working on changing the background to red.",
+        "message_id": "guest29082024184033",
+        "timestamp": "29082024184034",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Please change the background to red",
+        "message_id": "guest29082024184033",
+        "timestamp": "29082024184033",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add subtle hover effects to the button for better user interaction\", \"checked\": true}, {\"feature\": \"Implement a loading animation for the button to indicate progress on click\", \"checked\": false}, {\"feature\": \"Include a 'Back to top' floating button for easy navigation\", \"checked\": true}, {\"feature\": \"Integrate dynamic tooltips on buttons for user guidance\", \"checked\": false}, {\"feature\": \"Use a contrasting color for the button text to ensure readability\", \"checked\": true}, {\"feature\": \"Add an animated icon to the button for visual appeal\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 138, \"time_taken\": \"0:00:05.131055\"}",
+        "message_id": "guest28082024213038",
+        "timestamp": "28082024213045",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of green in mind for the button, or would you like us to choose a shade that complements the existing design?\", \"option1\": \"Please choose a complementary shade for me.\", \"option2\": \"I will provide a specific shade or hex code.\"}, {\"question 2\": \"Should the text color inside the button change to maintain readability and design aesthetics?\", \"option1\": \"Yes, adjust the text color as needed.\", \"option2\": \"No, keep the current text color.\"}], \"input_token_count\": 270, \"output_token_count\": 120, \"time_taken\": \"0:00:03.604858\"}",
+        "message_id": "guest28082024213038",
+        "timestamp": "28082024213043",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, working on making the button green.",
         "message_id": "guest28082024213038",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Adjust navigation bar alignment for the new 'homer' label\", \"checked\": true}, {\"feature\": \"Update the site map to reflect the 'homer' change\", \"checked\": true}, {\"feature\": \"Redesign the header section to better accommodate the updated navigation labels\", \"checked\": false}, {\"feature\": \"Implement responsive design adjustments for 'homer' navigation on mobile devices\", \"checked\": true}, {\"feature\": \"Optimize the hover effects on 'homer' for better user interaction\", \"checked\": false}, {\"feature\": \"Add a tooltip on 'homer' to explain its purpose to new users\", \"checked\": true}], \"input_token_count\": 284, \"output_token_count\": 151, \"time_taken\": \"0:00:03.991408\"}",
-        "message_id": "guest28082024185544",
-        "timestamp": "28082024185550",
-        "component_file_name": "purple_header_component_1724789024",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want 'home' changed to 'homer' across the entire website or only in specific sections/pages?\", \"option1\": \"Across the entire website\", \"option2\": \"Only in specific sections/pages\"}, {\"question 2\": \"Should the change from 'home' to 'homer' affect only visible text, or also hidden elements such as meta tags and alt texts?\", \"option1\": \"Only visible text\", \"option2\": \"Both visible text and hidden elements\"}], \"input_token_count\": 330, \"output_token_count\": 114, \"time_taken\": \"0:00:03.105967\"}",
-        "message_id": "guest28082024185544",
-        "timestamp": "28082024185549",
-        "component_file_name": "purple_header_component_1724789024",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll make the change from \"home\" to \"homer\".",
-        "message_id": "guest28082024185544",
-        "timestamp": "28082024185545",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change home to homer",
-        "message_id": "guest28082024185544",
-        "timestamp": "28082024185544",
-        "component_file_name": "purple_header_component_1724789024",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Ensure all navigation links are correctly labeled and functional, including changing 'not home' to 'Home'\", \"checked\": true}, {\"feature\": \"Implement a sticky header for easy navigation throughout the website\", \"checked\": false}, {\"feature\": \"Add a search bar in the header for quick access to different coffee recipes or articles\", \"checked\": false}, {\"feature\": \"Include a dropdown menu in the header for categories like Brewing Methods, Coffee Reviews, and Equipment\", \"checked\": false}, {\"feature\": \"Integrate a 'Popular Recipes' section in the header for quick access to trending cold brew content\", \"checked\": false}, {\"feature\": \"Enable dark mode toggle in the header for user preference\", \"checked\": false}], \"input_token_count\": 255, \"output_token_count\": 153, \"time_taken\": \"0:00:05.247828\"}",
-        "message_id": "guest28082024165548",
-        "timestamp": "28082024165554",
-        "component_file_name": "purple_header_component_1724789024",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "The user engaged in a conversation with the AI assistant regarding changes to their website. The AI presented the user with two questions about modifying the navigation menu, asking if they wanted \"not home\" changed to \"Home\" as the main landing page link, with options to either replace or retain it, and whether the \"Home\" button should have a unique design to distinguish it, offering corresponding options. The user chose to change \"not home\" to \"home.\" Following this, the AI provided a checklist of additional features for the website, highlighting some already checked, such as a sticky navigation bar and responsive header, while others, like a dropdown menu under \"Recipes\" and search functionality, remained unchecked. The user was then asked to clarify what needed fixing in the header\u2014whether it was a design or functionality issue\u2014and whether the header should remain consistent across all pages or change dynamically. The user requested the header to be fixed. In response, the AI prompted for more details about the project to assist further.",
-        "timestamp": "28082024213038",
-        "message_id": "guest28082024213038"
+        "content": "The user requested to change \"home\" to \"homer\" on their website, and the AI confirmed it would make the change. The AI then presented a series of questions for the user to clarify how the change should be implemented, including options on whether to change \"home\" to \"homer\" site-wide or only in specific sections, and whether the change should affect only visible text or also include hidden elements like meta tags and alt texts. Subsequently, the user also asked for \"not home\" to be changed to \"home,\" to which the AI again confirmed it would proceed with the change. Additionally, the AI provided a checklist of potential features to implement, including adjustments to navigation and header elements, with checkboxes indicating which features were completed and which were still pending. Among the optional features were implementing a sticky header, adding a search bar, and enabling a dark mode toggle. The user was prompted with further questions about design and functionality issues related to the header, to which they requested assistance in fixing it. The AI responded by asking for more details about the project, indicating its willingness to assist further.",
+        "timestamp": "29082024184036",
+        "message_id": "guest29082024184033"
     }
 ]
