@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of beige are you envisioning for the background color?\", \"option1\": \"A light beige\", \"option2\": \"A darker beige\"}, {\"question 2\": \"Would you like the beige background to be a solid color or with any texture or pattern?\", \"option1\": \"Solid color\", \"option2\": \"With texture or pattern\"}], \"input_token_count\": 519, \"output_token_count\": 85, \"time_taken\": \"0:00:02.122308\"}",
+        "message_id": "guest29082024184708",
+        "timestamp": "29082024184711",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change background color to beige\", \"checked\": true}, {\"feature\": \"Implement gradient background options\", \"checked\": false}, {\"feature\": \"Add background pattern choices\", \"checked\": false}, {\"feature\": \"Enable dark mode toggle\", \"checked\": false}, {\"feature\": \"Allow users to customize background colors\", \"checked\": false}, {\"feature\": \"Add a full-screen background image option\", \"checked\": false}], \"input_token_count\": 473, \"output_token_count\": 103, \"time_taken\": \"0:00:01.714070\"}",
+        "message_id": "guest29082024184708",
+        "timestamp": "29082024184711",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'm changing the background color to beige now.",
+        "message_id": "guest29082024184708",
+        "timestamp": "29082024184708",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Please change the background color to beige",
+        "message_id": "guest29082024184708",
+        "timestamp": "29082024184708",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the change of background color to white to apply site-wide or only to specific sections?\", \"option1\": \"Apply site-wide\", \"option2\": \"Only to specific sections\"}, {\"question 2\": \"Do you want any adjustments to the text color or other elements to ensure readability after changing the background to white?\", \"option1\": \"Yes, adjust text color\", \"option2\": \"No, keep the current text color\"}], \"input_token_count\": 576, \"output_token_count\": 105, \"time_taken\": \"0:00:01.647294\"}",
+        "message_id": "guest29082024184541",
+        "timestamp": "29082024184544",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Please change the background color to white",
         "message_id": "guest29082024184541",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of red are you envisioning for the background?\", \"option1\": \"Bright red\", \"option2\": \"Dark red\"}, {\"question 2\": \"Should the red background apply to all pages of the website or just specific sections?\", \"option1\": \"All pages\", \"option2\": \"Specific sections\"}], \"input_token_count\": 270, \"output_token_count\": 78, \"time_taken\": \"0:00:01.442425\"}",
-        "message_id": "guest29082024184033",
-        "timestamp": "29082024184036",
-        "component_file_name": "blank_component_1724863517",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, I'm working on changing the background to red.",
-        "message_id": "guest29082024184033",
-        "timestamp": "29082024184034",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Please change the background to red",
-        "message_id": "guest29082024184033",
-        "timestamp": "29082024184033",
-        "component_file_name": "blank_component_1724863517",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add subtle hover effects to the button for better user interaction\", \"checked\": true}, {\"feature\": \"Implement a loading animation for the button to indicate progress on click\", \"checked\": false}, {\"feature\": \"Include a 'Back to top' floating button for easy navigation\", \"checked\": true}, {\"feature\": \"Integrate dynamic tooltips on buttons for user guidance\", \"checked\": false}, {\"feature\": \"Use a contrasting color for the button text to ensure readability\", \"checked\": true}, {\"feature\": \"Add an animated icon to the button for visual appeal\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 138, \"time_taken\": \"0:00:05.131055\"}",
-        "message_id": "guest28082024213038",
-        "timestamp": "28082024213045",
-        "component_file_name": "blank_component_1724863517",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of green in mind for the button, or would you like us to choose a shade that complements the existing design?\", \"option1\": \"Please choose a complementary shade for me.\", \"option2\": \"I will provide a specific shade or hex code.\"}, {\"question 2\": \"Should the text color inside the button change to maintain readability and design aesthetics?\", \"option1\": \"Yes, adjust the text color as needed.\", \"option2\": \"No, keep the current text color.\"}], \"input_token_count\": 270, \"output_token_count\": 120, \"time_taken\": \"0:00:03.604858\"}",
-        "message_id": "guest28082024213038",
-        "timestamp": "28082024213043",
-        "component_file_name": "blank_component_1724863517",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "During the conversation, the user and AI assistant discussed several updates and features for a website. The user requested a button that alerts the message 'CLICKED' when pressed, and the AI confirmed it would be added and acknowledged the task of changing \"home\" to \"homer\" across the website. The AI provided a checklist of additional features, including implementing smooth scrolling, a 'Back to Top' button, and customer review sections, among others. \n\nThe user also requested to change 'not home' to 'Home' in the navigation menu, to which the AI responded affirmatively and offered more feature options, such as a sticky header and a search bar. Throughout the interaction, the AI asked questions to clarify the user\u2019s preferences regarding button positioning and design, and the visibility of text changes, ensuring accurate implementation of requests. Finally, the AI asked for more details about fixing the header to better assist the user.",
-        "timestamp": "29082024184541",
-        "message_id": "guest29082024184541"
+        "content": "In the conversation, the user initially requested an update to change the background color of their website to red. The AI acknowledged this request and asked the user specific questions regarding the shade of red and whether the change should affect all pages or specific sections, providing two options for each. Following this, the user requested to change a button color to green, prompting the AI to confirm the task and inquire about the button's shade and text color adjustments.\n\nThe AI then presented the user with a checklist of additional features for the website. These included hover effects for buttons, a loading animation, and a \"Back to top\" button, among others. The user provided their preferences and agreed to implement various features, including a button that alerts \"CLICKED\" upon being pressed.\n\nNext, the user asked to change the navigation label from \"home\" to \"homer,\" which the AI agreed to do, while also presenting additional features for the user to consider, such as alignment adjustments and tooltip additions. The user later requested to change \"not home\" in the navigation menu to \"Home,\" which the AI acknowledged, confirming the change.\n\nThe conversation continued with the user asking for improvements to the site's header, prompting the AI to request further details on whether the issues were design or functionality-related. The AI ensured that it would remain consistent across all pages unless the user indicated otherwise.\n\nThroughout the interactions, the AI consistently acknowledged the user's requests and provided options to enhance the website's design and user experience effectively.",
+        "timestamp": "29082024184711",
+        "message_id": "guest29082024184708"
     }
 ]
