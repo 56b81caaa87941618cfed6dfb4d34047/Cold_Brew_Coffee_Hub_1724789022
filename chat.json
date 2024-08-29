@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Please change the background to green",
+        "message_id": "guest29082024184507",
+        "timestamp": "29082024184507",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of red are you envisioning for the background?\", \"option1\": \"Bright red\", \"option2\": \"Dark red\"}, {\"question 2\": \"Should the red background apply to all pages of the website or just specific sections?\", \"option1\": \"All pages\", \"option2\": \"Specific sections\"}], \"input_token_count\": 270, \"output_token_count\": 78, \"time_taken\": \"0:00:01.442425\"}",
         "message_id": "guest29082024184033",
