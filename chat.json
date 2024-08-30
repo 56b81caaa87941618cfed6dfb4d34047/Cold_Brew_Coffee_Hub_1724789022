@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of blue do you prefer for the background color?\", \"option1\": \"Light blue\", \"option2\": \"Dark blue\"}, {\"question 2\": \"Should this blue background be applied to the entire website or just specific sections?\", \"option1\": \"Entire website\", \"option2\": \"Specific sections only\"}], \"input_token_count\": 575, \"output_token_count\": 80, \"time_taken\": \"0:00:01.061775\"}",
+        "message_id": "guest30082024195349",
+        "timestamp": "30082024195356",
+        "component_file_name": "blank_component_1724863517",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm changing the background color to blue now.",
         "message_id": "guest30082024195349",
