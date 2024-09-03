@@ -145,3 +145,9 @@ export default {
   name: "PurpleHeaderComponent",
   data() {
     return {
+      expanded: false,
+      tab: null,
+    };
+  },
+};
+</script>
