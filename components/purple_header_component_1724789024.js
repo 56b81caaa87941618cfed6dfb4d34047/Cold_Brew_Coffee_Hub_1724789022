@@ -148,3 +148,9 @@ export default {
       expanded: false,
     };
   },
+};
+</script>
+
+<style scoped>
+/* Add any component-specific styles here */
+</style>
