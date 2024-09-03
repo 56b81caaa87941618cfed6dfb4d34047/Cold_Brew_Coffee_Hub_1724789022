@@ -133,7 +133,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 <a id="mobile-About Us-link" class="flex font-medium text-sm py-2 text-white hover:text-pink-200" href="About Us.html">About Us</a>
               </li>
             </ul>
-          </nav
+          </nav>
         </div>
       </div>
     </div>
@@ -145,5 +145,5 @@ export default {
   name: "PurpleHeaderComponent",
   data() {
     return {
-      expanded: false
-  }
+      expanded: false,
+    };
