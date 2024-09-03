@@ -48,7 +48,7 @@ export default {
         // End of show alert method
     }
 };
-</scri
+</script>
 
 <style scoped>
 /* Add component-specific styles here */
