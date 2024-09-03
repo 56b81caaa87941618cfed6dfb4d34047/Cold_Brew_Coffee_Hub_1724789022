@@ -153,4 +153,4 @@ export default {
 
 <style scoped>
 /* Add any component-specific styles here */
-</style>
+</styl
