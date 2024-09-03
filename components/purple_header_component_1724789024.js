@@ -149,5 +149,4 @@ export default {
     };
   },
 };
-</scr
-
+</script>
