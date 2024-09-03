@@ -34,7 +34,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="Our Brews.html"
               >
-                Our Brews
+                Our Brew
               </a>
             </li>
             <li>
@@ -133,7 +133,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 <a id="mobile-About Us-link" class="flex font-medium text-sm py-2 text-white hover:text-pink-200" href="About Us.html">About Us</a>
               </li>
             </ul>
-          </nav>
+          </nav
         </div>
       </div>
     </div>
@@ -146,7 +146,4 @@ export default {
   data() {
     return {
       expanded: false
-    };
   }
-};
-</script>
