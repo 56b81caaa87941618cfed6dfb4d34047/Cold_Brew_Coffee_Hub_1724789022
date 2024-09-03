@@ -147,3 +147,4 @@ export default {
     return {
       expanded: false,
     };
+  },
