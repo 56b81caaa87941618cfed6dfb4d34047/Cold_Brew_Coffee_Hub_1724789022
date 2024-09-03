@@ -148,3 +148,5 @@ export default {
       expanded: false,
     };
   },
+};
+</script>
