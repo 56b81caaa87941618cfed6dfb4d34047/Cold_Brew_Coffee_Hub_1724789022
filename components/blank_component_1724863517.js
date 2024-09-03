@@ -43,10 +43,10 @@ export default {
     methods: {
         // Show alert method
         showAlert() {
-            alert('CLICKED');
+            alrt('CLICKED');
         },
         // End of show alert method
-    }
+    
 };
 </script>
 
