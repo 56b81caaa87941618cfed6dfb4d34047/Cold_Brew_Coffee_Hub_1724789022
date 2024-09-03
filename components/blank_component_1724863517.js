@@ -47,7 +47,7 @@ export default {
         },
         // End of show alert method
     }
-};
+};}}}
 </script>
 
 <style scoped>
