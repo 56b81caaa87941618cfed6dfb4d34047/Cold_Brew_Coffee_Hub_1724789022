@@ -149,8 +149,4 @@ export default {
     };
   },
 };
-</script>
-
-<style scoped>
-/* Add any component-specific styles here */
-</styl
+</scri
