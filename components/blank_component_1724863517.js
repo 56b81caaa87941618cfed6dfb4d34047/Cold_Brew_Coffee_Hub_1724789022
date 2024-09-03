@@ -46,7 +46,7 @@ export default {
             alrt('CLICKED');
         },
         // End of show alert method
-    
+    }
 };
 </script>
 
