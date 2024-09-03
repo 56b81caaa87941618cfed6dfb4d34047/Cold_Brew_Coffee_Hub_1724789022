@@ -148,7 +148,7 @@ export default {
       expanded: false,
     };
   },
-};
+};}}}}}}}
 </script>
 
 <style scoped>
