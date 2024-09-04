@@ -1,38 +1,38 @@
 <template>
-  <div class="flex items-center justify-center w-full h-full bg-white">
-    <div>
+  <div class="flex items-center justify-center w-full h-full bg-gradient-to-br from-purple-900 via-pink-800 to-black">
+    <div class="p-8 bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg">
       <div v-if="!isLoggedIn">
-        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+        <button class="bg-pink-500 hover:bg-pink-600 text-white font-bold py-3 px-6 rounded-full transition duration-300 ease-in-out transform hover:scale-105 shadow-md"
           @click="openModal">Login</button>
       </div>
       <div v-else>
-        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+        <button class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 rounded-full transition duration-300 ease-in-out transform hover:scale-105 shadow-md"
           @click="handleLogout">Logout
         </button>
-        <div>{{ getUserInformation().userId }}</div>
+        <div class="mt-4 text-white font-semibold">{{ getUserInformation().userId }}</div>
       </div>
     </div>
-    <dialog ref="loginModal">
-      <div class="w-full max-w-sm p-6 bg-gray-200 rounded-lg shadow-md">
-        <h2 class="text-2xl font-semibold text-center text-gray-700 mb-6">Login</h2>
+    <dialog ref="loginModal" class="bg-transparent">
+      <div class="w-full max-w-md p-8 bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg">
+        <h2 class="text-3xl font-semibold text-center text-white mb-8">Login</h2>
         <form @submit.prevent="handleLogin">
-          <div class="mb-4">
-            <label for="text" class="block text-sm font-medium text-gray-700">Username:</label>
-            <input type="text" id="email" v-model="username" required
-              class="w-full px-4 py-2 mt-2 text-gray-700 bg-white border rounded-md focus:border-blue-500 focus:outline-none focus:ring">
-          </div>
           <div class="mb-6">
-            <label for="password" class="block text-sm font-medium text-gray-700">Password:</label>
-            <input type="password" id="password" v-model="password" required
-              class="w-full px-4 py-2 mt-2 text-gray-700 bg-white border rounded-md focus:border-blue-500 focus:outline-none focus:ring">
+            <label for="text" class="block text-sm font-medium text-pink-200 mb-2">Username:</label>
+            <input type="text" id="email" v-model="username" required
+              class="w-full px-4 py-3 text-white bg-purple-800 bg-opacity-50 border border-pink-300 rounded-md focus:border-pink-500 focus:outline-none focus:ring focus:ring-pink-200 focus:ring-opacity-50 placeholder-pink-200::placeholder">
           </div>
-          <div class="flex items-center justify-between">
+          <div class="mb-8">
+            <label for="password" class="block text-sm font-medium text-pink-200 mb-2">Password:</label>
+            <input type="password" id="password" v-model="password" required
+              class="w-full px-4 py-3 text-white bg-purple-800 bg-opacity-50 border border-pink-300 rounded-md focus:border-pink-500 focus:outline-none focus:ring focus:ring-pink-200 focus:ring-opacity-50 placeholder-pink-200::placeholder">
+          </div>
+          <div class="flex items-center justify-between space-x-4">
             <button @click="closeModal"
-              class="w-full px-4 py-2 text-white bg-red-500 rounded-md hover:bg-blue-600 focus:outline-none focus:bg-blue-600 m-1">
+              class="w-full px-6 py-3 text-white bg-pink-600 rounded-full hover:bg-pink-700 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-opacity-50 transition duration-300 ease-in-out transform hover:scale-105 shadow-md">
               Cancel
             </button>
             <button type="submit"
-              class="w-full px-4 py-2 text-white bg-blue-500 rounded-md hover:bg-blue-600 focus:outline-none focus:bg-blue-600 m-1">
+              class="w-full px-6 py-3 text-white bg-purple-600 rounded-full hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-opacity-50 transition duration-300 ease-in-out transform hover:scale-105 shadow-md">
               Login
             </button>
           </div>
