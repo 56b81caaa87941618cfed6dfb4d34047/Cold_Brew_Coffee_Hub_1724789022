@@ -18,7 +18,11 @@ INSTRUCTION: </div>
         <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
         <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
             <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
-
+                <div class="flex-1">
+                    <button class="bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded shadow-lg transition duration-300 ease-in-out">
+                        Red Button
+                    </button>
+                </div>
             </div>
         </section>  
     </div>
@@ -33,6 +37,9 @@ export default {
             tab: null,
         };
     },
+    methods: {
+        // Add your methods here
+    }
 };
 </script>
 
