@@ -6,7 +6,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
 -->
 
 <template>
-  <header class="w-full z-30 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-70 backdrop-filter backdrop-blur-lg" id="header-section-container" style="min-height: 350px"    >
+  <header class="w-full z-30 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-70 backdrop-filter backdrop-blur-lg" id="header-section-container" style="min-height: 430px"     >
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="flex items-center justify-between h-16 md:h-20 rounded-lg shadow-lg">
         <!-- Site Branding -->
