@@ -368,6 +368,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I\u2019m adding a red button for you now.",
+        "message_id": "guest04092024050047",
+        "timestamp": "04092024050048",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a red button",
         "message_id": "guest04092024050047",
