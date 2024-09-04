@@ -106,9 +106,7 @@ export default {
       let response = await fetch(tempHardcodedLoginPath, {
       headers: {
         "Accept": "application/json",
-        "Content-Type": "application/json",
-        "X-Sxt-Login": "true",
-        'Access-Control-Allow-Origin': '*'
+        "Content-Type": "application/json"
       },
       method: "POST",
       body: JSON.stringify(credentials)
