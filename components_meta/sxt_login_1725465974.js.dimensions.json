@@ -1,0 +1,18 @@
+{
+    "id": "sxt_login-38786757-f4f7-bf9d-0521-ed0d4fa8bed3",
+    "name": "sxt_login",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
